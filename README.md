@@ -17,6 +17,7 @@ També podeu afegir [enllaços](https://www.transfermarkt.es/cristiano-ronaldo/p
 ![Imatge d'exemple](https://static01.nyt.com/images/2020/12/01/opinion/04rotulo-ES-1/01rotulo-01-superJumbo.jpg?quality=75&auto=webp)
 
 Podeu ressaltar el text en *cursiva* o **negreta** segons les vostres necessitats.
+
 3. [inicio]()
 ```javascript
 // Aquest és un bloc de codi
