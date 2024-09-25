@@ -1,22 +1,22 @@
 # El meu document Markdown
 
-Aquí tienes una lista de los 4 mejores jugadores de futbol:
+**Aquí tienes una lista de los 4 mejores jugadores de futbol:**
 
-1- Cristiano Ronaldo
+1- ***Cristiano Ronaldo***
 
 ![Imatge d'exemple](CRISTIANORONALDO.webp)
 
-2- Messi
+2- ***Messi***
 
 ![Imatge d'exemple](MESSI.webp)
 
 
-3- Pele
+3- ***Pele***
 
 ![Imatge d'exemple](PELE.jpeg)
 
 
-4- Maradona
+4- ***Maradona***
 
 ![Imatge d'exemple](MARADONA.webp)
 
