@@ -11,11 +11,10 @@ Aquí tienes una lista de los 4 mejores jugadores de futbol:
 4- Maradona
 
 També podeu afegir [enllaços](https://www.transfermarkt.es/cristiano-ronaldo/profil/spieler/8198) i mostrar imatges:
-![Imatge d'exemple](CRISTIANO.webp)
+![Imatge d'exemple](CRISTIANORONALDO.webp)
 ![Imatge d'exemple](MESSI.webp)
 ![Imatge d'exemple](PELE.jpeg)
 ![Imatge d'exemple](MARADONA.webp)
-
 Podeu ressaltar el text en *cursiva* o **negreta** segons les vostres necessitats.
 
 3. [inicio]()
